@@ -1,0 +1,210 @@
+/*GENERAL*/
+:root {
+    background: hsl(0, 0%, 100%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    line-height: 1.3;
+    height: 100vh;
+    color: hsl(201, 11%, 66%);
+    text-align: center;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Bai Jamjuree', sans-serif;
+    line-height: 1.3;
+    margin: 1em 0;
+    color: hsl(210, 10%, 33%);
+    font-weight: 400;
+}
+
+h1 {
+    font-weight: 600;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.btn {
+    background: hsl(198, 60%, 50%);
+    padding: 15px 60px;
+    box-shadow: 0 0 15px 0 rgba(0,0,0,.10);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-radius: 30px;
+    margin: 50px 16px 75px 16px;
+    border: none;
+    color: hsl(0, 0%, 100%);
+    font-weight: bold;
+}
+
+.mac {
+    background: hsl(233, 100%, 69%);
+}
+
+.ios {
+    background: hsl(171, 66%, 44%);
+}
+
+/*SHOWCASE*/
+.showcase {
+    background: url("images/bg-header-desktop.png") no-repeat;
+    background-size:  cover;
+    height: 650px;
+}
+
+.showcase .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.showcase .container .logo {
+    margin: 130px 0 65px 0;
+}
+
+.showcase .container .buttons {
+    display: flex;
+    margin: 50px 0;
+}
+
+/*SECTION B*/
+.section-b {
+    height: 950px;
+}
+
+.section-b .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-b .container .photo-and-text {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 110px;
+}
+
+.section-b .container .photo-and-text h3 {
+    margin-top: 40px;
+}
+
+.section-b .container .text {
+    margin: 75px 0 80px 0;
+}
+
+.section-b .container .two {
+    text-align: left;
+}
+
+/*SECTION C*/
+.section-c {
+    height: 875px;
+}
+
+.section-c .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-c .container .devices {
+    margin-top: 120px;
+}
+
+/*SECTION D*/
+.section-d {
+    height: 500px;
+}
+
+.section-d .bullet-points {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 75px;
+}
+
+/*SECTION E*/
+.gallery {
+    height: 200px;
+}
+
+.gallery .container {
+    display: flex;
+    justify-content: space-around;
+}
+
+/*SECTION F*/
+.section-f {
+    height: 400px;
+}
+
+.section-f .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/*FOOTER*/
+footer {
+    background: hsl(202, 11%, 98%);
+    height: 250px;
+}
+
+footer .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-around;
+    padding-top: 60px;
+}
+
+footer .container .column-one {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer .container ul {
+    list-style: none;
+}
+
+footer .container a {
+    text-decoration: none;
+    color: hsl(210, 10%, 33%);
+}
+
+footer .container .social-media-icons {
+    display: flex;
+    justify-content: flex-end;
+}
+
+footer .social-media-icons i {
+    margin: 0 .5em;
+}
+
+footer .footer-part {
+    line-height: 2.5em;
+}
+
+@media only screen and (max-width: 375px) {
+    section .container {
+        display: flex;
+        flex-direction: column;
+    }
+}

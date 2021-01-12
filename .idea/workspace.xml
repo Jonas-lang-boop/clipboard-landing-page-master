@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8f8e6df-f7cc-4e16-85ae-8a42d752e043" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1me1nVFXszXgLK8SnFf7mb1fWzx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8f8e6df-f7cc-4e16-85ae-8a42d752e043" name="Default Changelist" comment="" />
+      <created>1609839409544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609839409544</updated>
+      <workItem from="1609839410601" duration="13665000" />
+      <workItem from="1610028962741" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1243" y="314" key="FileChooserDialogImpl" timestamp="1609846104290">
+      <screen x="-2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="-1243" y="314" key="FileChooserDialogImpl/0.0.1536.824/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1609846104290" />
+    <state x="544" y="0" width="782" height="911" maximized="true" key="dock-window-1" timestamp="1610028994731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="0" width="782" height="911" maximized="true" key="dock-window-1/0.0.1536.824/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1609839790273" />
+    <state x="0" y="0" width="782" height="911" key="dock-window-2" timestamp="1609839790273">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="782" height="911" key="dock-window-2/0.0.1536.824/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1609839790273" />
+    <state x="-1280" y="0" width="782" height="1097" key="dock-window-3" timestamp="1609839790273">
+      <screen x="-2560" y="0" width="2048" height="1112" />
+    </state>
+    <state x="-1280" y="0" width="782" height="1097" key="dock-window-3/0.0.1536.824/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1609839790273" />
+  </component>
+</project>
